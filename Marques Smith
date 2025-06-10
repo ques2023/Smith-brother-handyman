@@ -1,0 +1,51 @@
+<body>
+    <header>
+        <h1>Smith Brothers Handyman Services</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+            <a href="#quote">Request a Quote</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome</h2>
+            <p>We provide reliable, affordable, and professional handyman services throughout the Bay Area.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Drywall Repair & Installation</li>
+                <li>Painting</li>
+                <li>Plumbing & Electrical Work</li>
+                <li>Appliance Installation</li>
+                <li>Fixture Installation</li>
+                <li>Lockout Services</li>
+                <li>Demolition & Framing</li>
+                <li>Moving & Assembly</li>
+                <li>Retrofitting & Carpentry</li>
+                <li>Flooring & Vinyl Installation</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p><strong>Email:</strong> smithbrothershandymanservices@gmail.com</p>
+            <p><strong>Phone:</strong> 415-574-9240</p>
+            <p><strong>Address:</strong> 455 Market St Ste 1940 PMB 253215, San Francisco, CA 94105</p>
+        </section>
+
+        <section id="quote">
+            <h2>Request a Quote</h2>
+            <p>Click the button below to email us your project details and get a quote:</p>
+            <a href="mailto:smithbrothershandymanservices@gmail.com?subject=Quote Request" class="quote-button">Request a Quote</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Smith Brothers Handyman Services. All rights reserved.</p>
+    </footer>
+</body>
